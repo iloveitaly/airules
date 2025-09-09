@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/iloveitaly/airules/compare/v0.1.0...v0.1.1) (2025-09-09)
+
+
+### Documentation
+
+* **stripe-backend:** add Stripe API integration guidelines for Python backend ([fbaef48](https://github.com/iloveitaly/airules/commit/fbaef48f24946907c9342dc67df3b15a4a785a34))
+
 ## 0.1.0 (2025-08-19)
 
 
