@@ -7,7 +7,7 @@ from airules.commands.explode import explode_main
 from airules.commands.implode import cursor, github
 from airules.commands.download import download_main
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 app = typer.Typer(
     name="airules",
